@@ -45,8 +45,8 @@ As YOLOv5 didn't perform well on the new dataset, Detectron 2 was used.
 To get a local copy up and running follow these simple example steps.
 
 ```bash
-git clone [url]
-cd [repo name]
+git clone https://github.com/shashank524/patent_analysis.git
+cd patent_analysis
 ```
 
 ### Colab
