@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>OC_paper_2page_1_EHdkXLl</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>user@ireadrx.ai</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>2125</width>
+<height>2750</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>markush-structures</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>1037</xmin>
+<ymin>1696</ymin>
+<xmax>1655</xmax>
+<ymax>2129</ymax>
+</bndbox>
+</object>
+</annotation>
