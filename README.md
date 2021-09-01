@@ -50,7 +50,7 @@ cd patent_analysis
 ```
 
 ### Colab
-If you want to train the models, or just learn more about how this project works hands on, colab would be the best place to do so. All the required colab notebooks are here[embedd link here].
+If you want to train the models, or just learn more about how this project works hands on, colab would be the best place to do so. All the required colab notebooks are [here](./colab_notebooks/).
 
 The first few cells take care of the installation. 
 
