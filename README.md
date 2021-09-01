@@ -63,7 +63,7 @@ If you want to use Detectron2 alone, or both YOLOv5 and Detectron2 together, run
 docker build -t compoundextractor .
 ```
 
-If you don't want to use Detectron2, comment the following lines in the Dockerfile [link it here]. It is okay if you don't do so, doing this will only reduce the size of the docker image.
+If you don't want to use Detectron2, comment the following lines in the [Dockerfile](./Dockerfile). It is okay if you don't do so, doing this will only reduce the size of the docker image.
 
 
 ```docker
