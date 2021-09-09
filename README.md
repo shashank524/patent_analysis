@@ -134,11 +134,11 @@ Let's say you wanted to know why I chose to perform inference a certain way, you
 
 ## iReadRx Blog
 <!-- BLOG-POST-LIST:START -->
+- [Table Detection Using Layout Parser](https://medium.com/ireadrx/table-detection-using-layout-parser-eaeb20fdba33?source=rss----e01cee636e0c---4)
 - [Detectron2 vs. Yolov5 (Which One Suits Your Use Case Better?)](https://medium.com/ireadrx/detectron2-vs-yolov5-which-one-suits-your-use-case-better-d959a3d4bdf?source=rss----e01cee636e0c---4)
 - [Chemical Patent Analysis Beyond Simple OCR](https://medium.com/ireadrx/chemical-patent-analysis-beyond-simple-ocr-24d0a5995c4c?source=rss----e01cee636e0c---4)
 - [Visualizing Relationships between Chemicals and Patent Data](https://medium.com/ireadrx/visualizing-relationships-between-chemicals-and-patent-data-f317d7c8bea9?source=rss----e01cee636e0c---4)
 - [Building Similar Patent Recommendations for Chemistry Patents](https://medium.com/ireadrx/building-similar-patent-recommendations-for-chemistry-patents-c68932c05796?source=rss----e01cee636e0c---4)
-- [Building Topic Models for Organic Chemistry Patents](https://medium.com/ireadrx/building-topic-models-for-organic-chemistry-patents-1610630bd2aa?source=rss----e01cee636e0c---4)
 <!-- BLOG-POST-LIST:END -->
 
 
