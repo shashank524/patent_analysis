@@ -4,7 +4,7 @@
 
 > A web app that leverages Deep Learning to detect relavant chemical structures in patent documents.
 
-> This project was built during the course of my internship at [iReadRx](http://www.ireadrx.ai/](https://medium.com/ireadrx)
+> This project was built during the course of my internship at [iReadRx](https://medium.com/ireadrx)
 
 
 <!-- ![Screenshot 2](./src/assets/Screenshot_2.png) | ![](./src/assets/app.png) -->
